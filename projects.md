@@ -1,6 +1,6 @@
 # Základní algoritmy a konzolové aplikace / Basic Algorithms and Console Applications 
 
-- [ x ] 01 - Kalkulačka /  Calculator
+- [x] 01 - Kalkulačka /  Calculator
 - [ ] 02 - Převodník měn (s pevně daným kurzem) / Currency Converter (with fixed exchange rate)
 - [ ] 03 - BMI kalkulačka / BMI calculator
 - [ ] 04 - Hádání čísla / Number Guessing Game
