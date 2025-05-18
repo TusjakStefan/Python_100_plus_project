@@ -11,3 +11,9 @@
 - [ ] 09 - Kalkulačka věku / Age Calculator
 - [ ] 10 - Palindrom / Palindrom checker 
 
+# 🔤 Práce s textetem / Working with Text
+- [ ] 11 - Počítání slov ve větě / Word Counter (count words in a sentence)
+- [ ] 12 - Cézarova šifra / Caesar Cipher
+- [ ] 13 - Pig latin překladač / Pig latin translator
+- [ ] 14 - Generator náhodných vět / Random Sentence Generator
+- [ ] 15 - Počítadlo znaků / Character Counter
