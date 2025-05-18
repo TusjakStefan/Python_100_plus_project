@@ -23,3 +23,5 @@ pytest test_main.py
 - pytest
 
 ## 💡Možná rozšíření
+- Přidání dalších možných operací (Mocniny, odmocniny apod.)
+- Vytvořit GUI
