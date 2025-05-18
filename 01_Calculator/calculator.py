@@ -65,9 +65,16 @@ def main_menu():
     print("2. Odčítání ")
     print("3. Násobení ")
     print("4. Dělení ")
-    vstup = int(input("Zadej číslo operace: "))
+    volba = int(input("Zadej číslo operace: "))
+    number1 = float(input("Zadej první číslo: "))
+    number2 = float(input("Zadej druhé číslo: "))
+    operace = ""
 
-    print(f"Super, vybíráš si volbu: {vstup}")
+    if volba == 1: 
+        operace = "Sčítání"
+        print(f"Super, vybíráš si volbu: {volba} : {operace}")
+        vysledek = addition(number1, number2)
+        print(f"Výsledek: {number1} + {number2} = {vysledek}")
 
 if __name__ == "__main__":
     main_menu()
