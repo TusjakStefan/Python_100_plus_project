@@ -2,7 +2,7 @@
 
 ### **ID případu:** TC01  
 
-**Název:** Sčítání dvou kladných desetinných čísel 
+**Název:** Sčítání dvou kladných celých čísel 
 
 **Scénář:** [TS01](test_scenarios.md#ts01)
 
