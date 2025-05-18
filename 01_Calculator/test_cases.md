@@ -2,7 +2,7 @@
 
 **ID případu:** TC01  
 **Název:** Sčítání dvou kladných desetinných čísel  
-**Scénář:** TS01 <a name="ts01">TS01</a>
+**Scénář:** [TS01](test_scenarios.md#ts01)
 **Kroky:**  
 1. [Krok 1 – např. Zadej číslo 2]  
 2. [Krok 2 – Zadej číslo 3]  S

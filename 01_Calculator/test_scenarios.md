@@ -1,6 +1,6 @@
 # 🧭 Testovací scénář (Test Scenario)
 
-**ID scénáře:** TS01  
+**ID scénáře:** TS01 <a name="ts01"></a> 
 **Název:** Sčítání dvou čísel  
 **Popis:** Ověření, že funkce `addition()` správně sečte dvě zadaná čísla.  
 **Předpoklady:**  
