@@ -1,4 +1,5 @@
 # ✅ Testovací případ (Test Case)
+<!-- Ikony ✅ Pass / ❌ Fail -->
 
 ### **ID případu:** TC01  
 
@@ -44,9 +45,9 @@
 
 **Očekávaný výsledek:** `Výsledek: 2.0 + -5.0 = -3.0`
 
-**Skutečný výsledek:** ještě netestováno
+**Skutečný výsledek:** `Výsledek: 2.0 + -5.0 = -3.0`
 
-**Výsledek:** 
+**Výsledek:** ✅ Pass
 
 **Poznámky:** - 
 
