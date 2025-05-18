@@ -28,6 +28,7 @@ def subtraction(number1: float, number2: float) -> float:
     """
     return number1 - number2
 
+# Funkce multiplication - násobení dvou čísel 
 def multiplication(number1: float, number2: float) -> float:
     """
     Funkce vynásobí dvě desetinná čísla a vrátí jejich součin
@@ -40,3 +41,19 @@ def multiplication(number1: float, number2: float) -> float:
         float: Výsledek součinu number1 a number2
     """
     return number1 * number2
+
+# Funkce divide - dělení dvou čísel
+def divide(number1: float, number2: float) -> float:
+    """
+    Funkce vydělí dvě desetinná čísla a  vrítá jejich podíl. Zároveň je ošetřena chyba, že 0 nelze dělit
+
+    Args:
+        number1 (float): První číselný vstup
+        number2 (float): Druhý číselný vstup
+
+    Returns:
+        float: Výsledek podílu number1 a number2
+    """
+    if number2 == 0:
+        raise ZeroDivisionError("Nulou nelze dělit")
+    return number1 / number2
