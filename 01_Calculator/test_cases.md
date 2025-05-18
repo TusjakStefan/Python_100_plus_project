@@ -1,6 +1,6 @@
 # ✅ Testovací případ (Test Case)
 
-**ID případu:** TC01  
+### **ID případu:** TC01  
 
 **Název:** Sčítání dvou kladných desetinných čísel 
 
@@ -23,7 +23,7 @@
 
 ---
 
-**ID případu:** TC02
+### **ID případu:** TC02
 
 **Název:** Sčítání dvou čísel (Kladné / Záporné)
 
