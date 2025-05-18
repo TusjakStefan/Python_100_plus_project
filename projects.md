@@ -12,6 +12,7 @@
 - [ ] 10 - Palindrom / Palindrom checker 
 
 # 🔤 Práce s textem / Working with Text
+
 - [ ] 11 - Počítání slov ve větě / Word Counter (count words in a sentence)
 - [ ] 12 - Cézarova šifra / Caesar Cipher
 - [ ] 13 - Pig latin překladač / Pig latin translator
@@ -24,3 +25,10 @@
 - [ ] 20 - Automatické doplňování textu / Auto Text Completion 
 
 ## 📅 Datum, čas a kalendář / Date, Time, and Calendars
+
+- [ ] 21 - Převod data na den v týdnu / Convert Date to Day of the Week 
+- [ ] 22 - Kalkulačka věku v sekundách / Age Calculator in Seconds
+- [ ] 23 - Generátor kalendáře (pomocí `calendar`) / Calendar Generator (using the `calendar` module)
+- [ ] 24 - Dny narozenin / Dyas Until Bithday
+- [ ] 25 - Kolik dnů zbývá do konce roku / Days Remaining Until the End of Year
+- [ ] 26 Automatický narozeninový generátor přání / Automatic Birthday Wishes Geerator
