@@ -57,3 +57,17 @@ def divide(number1: float, number2: float) -> float:
     if number2 == 0:
         raise ZeroDivisionError("Nulou nelze dělit")
     return number1 / number2
+
+def main_menu():
+    print("Ahoj vítej v Kalkulačce níže si můžeš vybrat matematickou operaci a já ti to vypočítám")
+    print("Matematické operace: ")
+    print("1. Sčítání ")
+    print("2. Odčítání ")
+    print("3. Násobení ")
+    print("4. Dělení ")
+    vstup = int(input("Zadej číslo operace: "))
+
+    print(f"Super, vybíráš si volbu: {vstup}")
+
+if __name__ == "__main__":
+    main_menu()
