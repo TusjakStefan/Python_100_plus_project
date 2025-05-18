@@ -13,3 +13,17 @@ def addition(number1: float, number2: float) -> float:
         float: Výsledek součtu number1 a number2 
     """
     return number1 + number2
+
+# Funkce subtraction . odčítání dvou čísel
+def subtraction(number1: float, number2: float) -> float:
+    """
+    Funkce odečte dvě desetinná čísla a vrátí jejich rozdíl
+
+    Args:
+        number1 (float): První číselný vstup
+        number2 (float): Druhý číselný vstup
+    
+    Returns:
+        float: Výsledek rozdílu number1 a number2
+    """
+    return number1 - number2
