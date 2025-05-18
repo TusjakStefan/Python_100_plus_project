@@ -27,3 +27,16 @@ def subtraction(number1: float, number2: float) -> float:
         float: Výsledek rozdílu number1 a number2
     """
     return number1 - number2
+
+def multiplication(number1: float, number2: float) -> float:
+    """
+    Funkce vynásobí dvě desetinná čísla a vrátí jejich součin
+
+    Args: 
+        number1 (float): První číselný vstup
+        number2 (float): Druhý číselný vstup
+
+    Returns:
+        float: Výsledek součinu number1 a number2
+    """
+    return number1 * number2
