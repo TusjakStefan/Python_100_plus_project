@@ -22,3 +22,5 @@
 - [ ] 18 - Morseova abeceda (kódování / dekódování) / Morse Code (encoding / decoding)
 - [ ] 19 - Najdi nejčastější slovo / Find the Most Frequent Word
 - [ ] 20 - Automatické doplňování textu / Auto Text Completion 
+
+## 📅 Datum, čas a kalendář / Date, Time, and Calendars
