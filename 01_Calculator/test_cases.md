@@ -1,8 +1,8 @@
 # ✅ Testovací případ (Test Case)
 
-**ID případu:** TCXX  
-**Název:** [Krátký název případu]  
-**Scénář:** TSXX  
+**ID případu:** TC01  
+**Název:** Sčítání dvou kladných desetinných čísel  
+**Scénář:** TS01 <a name="ts01">></a>
 **Kroky:**  
 1. [Krok 1 – např. Zadej číslo 2]  
 2. [Krok 2 – Zadej číslo 3]  
