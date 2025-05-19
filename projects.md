@@ -49,3 +49,27 @@
 - [ ] 36 - Kostková hra / Dice Game
 - [ ] 37 - Piškvorky / Tic - Tac - Toe 
 - [ ] 38 - Paměťová hra (pexeso) / Memory Game
+
+## 🌐 Webové a síťové mini projekty (pouze textově/skriptově) / Web and Networking Mini Projects (Text/Scripting Only)
+- [ ] 39 - Kontrola dostupnosti webu / Website Availability Checker
+- [ ] 40 - Stažení HTML z URL / Download HTML from a URL
+- [ ] 41 - Získání titulu stránky / Extract Page Title
+- [ ] 42 - Vyhledávání v Google (pomocí API) / Google Search (using API)
+- [ ] 43 - Odeslání e-mailu (pomocí smtplib) / Send Email (using smtplib)
+- [ ] 44 - Mini skript na stahování obrázků z webu / Mini Script to Download Images from a Website
+
+## 📂 Práce se soubory / File Handling Projects
+- [ ] 45 - Sloučení více .txt souborů / Merge Multiple .txt Files
+- [ ] 46 - Zálohování souboru / File Backup Utility
+- [ ] 47 - Čtení CSV a výpis statistiky / Read CSV and Display Basic Statistics
+- [ ] 48 - Převod CSV do JSON / Convert CSV to JSON
+- [ ] 49 - Jednoduchý logovací systém / Simple Logging System
+- [ ] 50 - Čtečka knihy po stránkách / Book Reader (Page by Page)
+
+## 🎲 Generování / Generators
+- [ ] 51 - Generátor Sudoku / Sudoku Generator
+- [ ] 52 - Generátor jména postavy (např. fantasy) / Fantasy Character Name Generator
+- [ ] 53 - Generátor náhodného úkolu / Random Task Generator
+- [ ] 54 - Generátor denního motivačního citátu / Daily Motivational Quote Generator
+- [ ] 55 - Generátor barev (hex kódy) / Color Generator (Hex Codes)
+
