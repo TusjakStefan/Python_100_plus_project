@@ -78,8 +78,19 @@ def main_menu():
     elif volba == 2:
         operace = "Odčítání"
         print(f"Super, vybíráš si volbu: {volba} : {operace}")
-        vysledek = addition(number1, number2)
-        print(f"Výsledek: {number1} + {number2} = {vysledek}")
+        vysledek = subtraction(number1, number2)
+        print(f"Výsledek: {number1} - {number2} = {vysledek}")
+    elif volba == 3:
+        operace = "Násobení"
+        print(f"Super, vybíráš si volbu: {volba} : {operace}")
+        vysledek = multiplication(number1, number2)
+        print(f"Výsledek: {number1} * {number2} = {vysledek}")
+    elif volba == 4:
+        operace = "Dělení"
+        print(f"Super, vybíráš si volbu: {volba} : {operace}")
+        vysledek = divide(number1, number2)
+        print(f"Výsledek: {number1} / {number2} = {vysledek}")
+
 
 if __name__ == "__main__":
     main_menu()
