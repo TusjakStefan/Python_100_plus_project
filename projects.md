@@ -40,3 +40,12 @@
 - [ ] 29 - Srovnání dvou seznamů dat / Comparison of two data sets
 - [ ] 30 - Základní kalkulačka GPA / Basic GPA Calculator
 - [ ] 31 - Generátor známek a jejich vyhodnocení / Grade Generator an Evaluation
+
+## 🧪Hry v konzoli / Console Games
+- [ ] 32 - Kámen - nůžky - papír / Rock-Paper-Scissors
+- [ ] 33 - Hádání čísel / Bull & Cow
+- [ ] 34 - Textové hádání filmu / Movie Title Guessing Game
+- [ ] 35 - Šibenice / Hangman
+- [ ] 36 - Kostková hra / Dice Game
+- [ ] 37 - Piškvorky / Tic - Tac - Toe 
+- [ ] 38 - Paměťová hra (pexeso) / Memory Game
