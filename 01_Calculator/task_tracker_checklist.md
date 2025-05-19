@@ -2,7 +2,7 @@
 
 - 1. [ ] : Zprovoznit aplikaci calculator.py
 - 2. [x] : ~~Vytvořit testovací plán~~
-- 3. [ ] : Vytvořit testovací scénáře
+- 3. [x] : ~~Vytvořit testovací scénáře~~
 - 4. [ ] : Vytvořit testovací případy pro funkci addition()
 - 5. [ ] : Vytvořit testovací případy pro funkci subtraction()
 - 6. [ ] : Vytvořit testovací případy pro funkci multiplication()

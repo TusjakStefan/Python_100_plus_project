@@ -8,6 +8,7 @@ Projekt kalkulačka, je základní konzolová aplikace, která umožní uživate
 - `test_cases.md` - Testovací případy / Test Cases
 - `test_scenarios.md`- Testovací scénáře / Test Scenarios
 - `tabel_test_cases.md` - Tabulka s přehledem TC + odkazy 
+- `task_tracker_checklist.md` - Úkoly
 
 ## ▶️ Spuštení aplikace / How to run
 ```bash
@@ -27,3 +28,4 @@ pytest test_main.py
 - Přidání dalších možných operací (Mocniny, odmocniny apod.)
 - Vytvořit GUI
 - Zlepšení struktury složky
+- Rozšířit testy pro funkci main_menu.? 
