@@ -11,7 +11,7 @@
 |[TC06](test_cases.md#id-případu-tc06)|2.3 + -5.3|Výsledek: 2.3 + -5.3 = -2.9|Netestováno| |
 |[TC07](test_cases.md#id-případu-tc07)|-2.3 + 5.3|Výsledek: -2.3 + 5.3 = 2.9|Netestováno| |
 |[TC08](test_cases.md#id-případu-tc08)|-2.3 + -5.2|Výsledek: -2.3 + -5.2 = -7.5|Netestováno| |
-|[TC09](test_cases.md#id-případu-tc09) + 5|Nelze spočítat nezadal si 1. číslo|Netestováno| |
-|[TC10](test_cases.md#id-případu-tc10) + -5|Nelze spočítat nezadal si 1. číslo|Netestováno| |
+|[TC09](test_cases.md#id-případu-tc09)| + 5|Nelze spočítat nezadal si 1. číslo|Netestováno| |
+|[TC10](test_cases.md#id-případu-tc10)| + -5|Nelze spočítat nezadal si 1. číslo|Netestováno| |
 |[TC11](test_cases.md#id-případu-tc11)|2 + |Nelze spočítat nezadal si 2. číslo|Netestováno| |
 |[TC12](test_cases.md#id-případu-tc12)|-2 + |Nelze spočítat nezadal si 2. číslo|Netestováno| |
