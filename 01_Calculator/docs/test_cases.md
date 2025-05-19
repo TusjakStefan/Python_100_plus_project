@@ -1,4 +1,4 @@
-# ✅ Testovací případ (Test Case)
+# ✅ Testovací případ (Test Case) - Funkce addition()
 <!-- Ikony ✅ Pass / ❌ Fail -->
 
 ### **ID případu:** TC01  
