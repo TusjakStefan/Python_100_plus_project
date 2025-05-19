@@ -16,10 +16,20 @@ Each project is in it  own folder.
 
 
 ```
-/projects/
-  /01_kalkulacka/
-    main.py
-    README.md
+01_Calculator/
+├── src/                  ← zdrojové soubory (hlavní kód)
+│   └── calculator.py
+│
+├── tests/                ← automatizované testy
+│   └── test_calculator.py
+│
+├── docs/                 ← testovací dokumentace
+│   ├── test_plan.md
+│   ├── test_scenarios.md
+│   ├── test_cases.md
+│   └── tabel_test_cases.md
+│
+├── README.md             ← hlavní popis projektu
 ```
 
 ## ✅ Checklist 
