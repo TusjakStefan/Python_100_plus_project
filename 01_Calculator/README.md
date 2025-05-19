@@ -7,6 +7,7 @@ Projekt kalkulačka, je základní konzolová aplikace, která umožní uživate
 - `test_plan.md` - Testovací plán / Test plan
 - `test_cases.md` - Testovací případy / Test Cases
 - `test_scenarios.md`- Testovací scénáře / Test Scenarios
+- `tabel_test_cases.md` - Tabulka s přehledem TC + odkazy 
 
 ## ▶️ Spuštení aplikace / How to run
 ```bash
