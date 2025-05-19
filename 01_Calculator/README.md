@@ -2,7 +2,7 @@
 Projekt kalkulačka, je základní konzolová aplikace, která umožní uživatel použít základní matematické operace (sčítání, odčítání, násobení a dělení). 
 
 ## 📂 Soubory / Files
-- `calculator.py` - [Kalkulačka / Calculator](calculator.py) - Hlavní logika / Main file
+- `calculator.py` - [Kalkulačka / Calculator](src/calculator.py) - Hlavní logika / Main file
 - `test_calculator.py` - Automatizované testy 
 - `test_plan.md` - Testovací plán / Test plan
 - `test_cases.md` - Testovací případy / Test Cases
