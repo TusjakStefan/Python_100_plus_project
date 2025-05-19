@@ -104,13 +104,13 @@
 
 **Očekávaný výsledek:** `Výsledek: -2.0 + -5.0 = -7.0`
 
-**Skutečný výsledek:** Netestováno
+**Skutečný výsledek:** `Výsledek: -2.0 + -5.0 = -7.0`
 
-**Printscreen výstupu:** - 
+**Printscreen výstupu:** [TC_04_output](screenshots/tc04_output.png)
 
-**Výsledek:** - 
+**Výsledek:** ✅ Pass 
 
-**Poznámky** -
+**Poznámky** Zvážit zda nedát druhé číslo do závorky pokud je záporné
 
 ---
 
