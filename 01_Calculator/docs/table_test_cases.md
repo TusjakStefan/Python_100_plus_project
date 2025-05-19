@@ -6,7 +6,7 @@
 |[TC01](test_cases.md#id-případu-tc01)|2 + 3|Výsledek: 2 + 3 = 5|✅ Pass| |
 |[TC02](test_cases.md#id-případu-tc02)|2 + -5|Výsledek: 2 + -5 = -3|✅ Pass| |
 |[TC03](test_cases.md#id-případu-tc03)|-2 + 5|Výsledek: -2 + 5 = 3|✅ Pass| |
-|[TC04](test_cases.md#id-případu-tc04)|-2 + -5|Výsledek: -2.0 + -5.0 = -7.0|Netestováno| |
+|[TC04](test_cases.md#id-případu-tc04)|-2 + -5|Výsledek: -2.0 + -5.0 = -7.0|✅ Pass| |
 |[TC05](test_cases.md#id-případu-tc05)|2.3 + 5.2|Výsledek: 2.3 + 5.2 = 7.5|Netestováno| |
 |[TC06](test_cases.md#id-případu-tc06)|2.3 + -5.3|Výsledek: 2.3 + -5.3 = -2.9|Netestováno| |
 |[TC07](test_cases.md#id-případu-tc07)|-2.3 + 5.3|Výsledek: -2.3 + 5.3 = 2.9|Netestováno| |
