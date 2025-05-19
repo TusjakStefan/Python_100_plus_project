@@ -10,3 +10,4 @@
 |[TC05](test_cases.md#id-případu-tc05)|2.3 + 5.2|Výsledek: 2.3 + 5.2 = 7.5|Netestováno| |
 |[TC06](test_cases.md#id-případu-tc06)|2.3 + -5.3|Výsledek: 2.3 + -5.3 = -2.9|Netestováno| |
 |[TC07](test_cases.md#id-případu-tc07)|-2.3 + 5.3|Výsledek: -2.3 + 5.3 = 2.9|Netestováno| |
+|[TC08](test_cases.md#id-případu-tc08)|-2.3 + -5.2|Výsledek: -2.3 + -5.2 = -7.5|Netestováno| |
