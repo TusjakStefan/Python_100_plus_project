@@ -1,6 +1,6 @@
 # Základní algoritmy a konzolové aplikace / Basic Algorithms and Console Applications 
 
-- [ ] 01 - Kalkulačka /  Calculator
+- [ ] 01 - [Kalkulačka](01_Calculator) /  [Calculator](01_Calculator) 
 - [ ] 02 - Převodník měn (s pevně daným kurzem) / Currency Converter (with fixed exchange rate)
 - [ ] 03 - BMI kalkulačka / BMI calculator
 - [ ] 04 - Hádání čísla / Number Guessing Game
@@ -33,7 +33,7 @@
 - [ ] 25 - Kolik dnů zbývá do konce roku / Days Remaining Until the End of Year
 - [ ] 26 Automatický narozeninový generátor přání / Automatic Birthday Wishes Generator
 
-## Data a statistika / Data and Statistics
+## 📈 Data a statistika / Data and Statistics
 
 - [ ] 27 - Průměr, medián, modus / Mean, Median, Mode Calculator
 - [ ] 28 - Histogram z čísel / Histogram from a list of numbers
