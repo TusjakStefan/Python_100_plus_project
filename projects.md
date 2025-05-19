@@ -31,4 +31,12 @@
 - [ ] 23 - Generátor kalendáře (pomocí `calendar`) / Calendar Generator (using the `calendar` module)
 - [ ] 24 - Dny narozenin / Dyas Until Bithday
 - [ ] 25 - Kolik dnů zbývá do konce roku / Days Remaining Until the End of Year
-- [ ] 26 Automatický narozeninový generátor přání / Automatic Birthday Wishes Geerator
+- [ ] 26 Automatický narozeninový generátor přání / Automatic Birthday Wishes Generator
+
+## Data a statistika / Data and Statistics
+
+- [ ] 27 - Průměr, medián, modus / Mean, Median, Mode Calculator
+- [ ] 28 - Histogram z čísel / Histogram from a list of numbers
+- [ ] 29 - Srovnání dvou seznamů dat / Comparison of two data sets
+- [ ] 30 - Základní kalkulačka GPA / Basic GPA Calculator
+- [ ] 31 - Generátor známek a jejich vyhodnocení / Grade Generator an Evaluation
