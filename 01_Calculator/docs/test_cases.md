@@ -21,7 +21,7 @@
 
 **Skutečný výstup:** `Výsledek: 2.0 + 3.0 = 5.0`
 
-**Printscreen výstupu:** [TC_01_outuput](screenshots/tc01_output.png)
+**Printscreen výstupu:** [TC_01_output](screenshots/tc01_output.png)
 
 **Výsledek:** ✅ Pass 
 
@@ -48,6 +48,8 @@
 **Očekávaný výsledek:** `Výsledek: 2.0 + -5.0 = -3.0`
 
 **Skutečný výsledek:** `Výsledek: 2.0 + -5.0 = -3.0`
+
+**Printscreen výstupu:** [TC_02_output](screenshots/tc02_output.png)
 
 **Výsledek:** ✅ Pass
 
@@ -76,6 +78,8 @@
 
 **Skutečný výsledek:** `Výsledek: -2.0 + 5.0 = 3.0`
 
+**Printscreen výstupu:** [TC_03_output](screenshots/tc03_output.png)
+
 **Výsledek:** ✅ Pass
 
 **Poznámky** -
@@ -102,6 +106,8 @@
 
 **Skutečný výsledek:** Netestováno
 
+**Printscreen výstupu:** - 
+
 **Výsledek:** - 
 
 **Poznámky** -
@@ -125,6 +131,8 @@
 **Vstupy:** 1. číslo: `2.3` a 2. číslo: `5.2` 
 
 **Očekávaný výsledek:** `Výsledek: 2.3 + 5.2 = 7.5`
+
+**Printscreen výstupu:** -
 
 **Skutečný výsledek:** Netestováno
 
@@ -154,6 +162,8 @@
 
 **Skutečný výsledek:** Netestováno
 
+**Printscreen výstupu:** -
+
 **Výsledek:** - 
 
 **Poznámky** -
@@ -180,6 +190,8 @@
 
 **Skutečný výsledek:** Netestováno
 
+**Printscreen výstupu:** -
+
 **Výsledek:** - 
 
 **Poznámky** -
@@ -205,6 +217,8 @@
 **Očekávaný výsledek:** `Výsledek: -2.3 + -5.2 = -7.5`
 
 **Skutečný výsledek:** Netestováno
+
+**Printscreen výstupu:** -
 
 **Výsledek:** - 
 
