@@ -132,11 +132,11 @@
 
 **Očekávaný výsledek:** `Výsledek: 2.3 + 5.2 = 7.5`
 
-**Printscreen výstupu:** -
+**Printscreen výstupu:** [TC_05_output](screenshots/tc05_output.png)
 
-**Skutečný výsledek:** Netestováno
+**Skutečný výsledek:** `Výsledek: 2.3 + 5.2 = 7.5`
 
-**Výsledek:** - 
+**Výsledek:** ✅ Pass  
 
 **Poznámky** -
 
