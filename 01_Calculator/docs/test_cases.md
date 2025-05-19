@@ -72,9 +72,9 @@
 
 **Očekávaný výsledek:** `Výsledek: -2.0 + 5.0 = 3.0`
 
-**Skutečný výsledek:** Netestováno
+**Skutečný výsledek:** `Výsledek: -2.0 + 5.0 = 3.0`
 
-**Výsledek:** - 
+**Výsledek:** ✅ Pass
 
 **Poznámky** -
 
