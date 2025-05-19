@@ -75,6 +75,11 @@ def main_menu():
         print(f"Super, vybíráš si volbu: {volba} : {operace}")
         vysledek = addition(number1, number2)
         print(f"Výsledek: {number1} + {number2} = {vysledek}")
+    elif volba == 2:
+        operace = "Odčítání"
+        print(f"Super, vybíráš si volbu: {volba} : {operace}")
+        vysledek = addition(number1, number2)
+        print(f"Výsledek: {number1} + {number2} = {vysledek}")
 
 if __name__ == "__main__":
     main_menu()
