@@ -21,6 +21,8 @@
 
 **Skutečný výstup:** `Výsledek: 2.0 + 3.0 = 5.0`
 
+**Printscreen výstupu:** [TC_01_outuput](screenshots/tc01_output.png)
+
 **Výsledek:** ✅ Pass 
 
 **Poznámky:** -
