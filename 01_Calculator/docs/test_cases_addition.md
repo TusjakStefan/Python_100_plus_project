@@ -160,13 +160,13 @@
 
 **Očekávaný výsledek:** `Výsledek: 2.3 + -5.2 = -2.9`
 
-**Skutečný výsledek:** Netestováno
+**Skutečný výsledek:** `Výsledek: 2.3 + -5.2 = -2.9000000000000004`
 
-**Printscreen výstupu:** -
+**Printscreen výstupu:** [TC_06_output](screenshots/tc06_output.png)
 
-**Výsledek:** - 
+**Výsledek:** ✅ Pass 
 
-**Poznámky** -
+**Poznámky:** Není známo na kolik destinných míst se má zobrazit výsledek  
 
 --- 
 
