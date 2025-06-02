@@ -74,7 +74,10 @@ def main_menu():
         operace = "Sčítání"
         print(f"Super, vybíráš si volbu: {volba} : {operace}")
         vysledek = addition(number1, number2)
-        print(f"Výsledek: {number1} + {number2} = {vysledek}")
+        if number2 < 0:
+            print(f"Výsledek: {number1} + ({number2}) = {vysledek}")
+        else: 
+            print(f"Výsledek: {number1} + {number2} = {vysledek}")
     elif volba == 2:
         operace = "Odčítání"
         print(f"Super, vybíráš si volbu: {volba} : {operace}")
