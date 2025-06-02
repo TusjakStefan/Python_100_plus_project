@@ -23,6 +23,7 @@ pytest test_main.py
 ## 🛠️ Použité technologie 
 - Python 3.13
 - pytest
+- html report
 
 ## 💡Možná rozšíření
 - Přidání dalších možných operací (Mocniny, odmocniny apod.)
