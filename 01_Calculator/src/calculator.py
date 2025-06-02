@@ -1,7 +1,7 @@
 # První projekt Kalkulačka
 
 # Funkce addition - sčítání dvou čísel
-def addition(number1: float, number2: float) -> float:
+def addition(number1: float, number2: float, decimals: int = 4) -> float:
     """
     Funkce sečte dvě desetinná čísla a vrátí jejich součet
 
@@ -10,9 +10,9 @@ def addition(number1: float, number2: float) -> float:
         number2 (float): Druhý číselný vstup
 
     Returns:
-        float: Výsledek součtu number1 a number2 
+        float: Výsledek součtu number1 a number2- zaokrouhlený na 4 desetinná čísla
     """
-    return number1 + number2
+    return round(number1 + number2, decimals)
 
 # Funkce subtraction . odčítání dvou čísel
 def subtraction(number1: float, number2: float) -> float:
