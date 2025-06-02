@@ -13,4 +13,5 @@
 - 11. [ ] : Manuální testy pro funkci divide()
 - 12. [ ] : Automatizované testy
 - 13. [ ] : Případný retest
-- 14. [ ] : Při odčítání kladné/záporné číslo, není definován počet desetinných míst. - Budeme vypisovat na 4 desetiiná čísla. Až bude v kódu opraveno, udělá se retest. 
+- 14. [x] : Při odčítání kladné/záporné číslo, není definován počet desetinných míst. - Budeme vypisovat na 4 desetiiná čísla. Až bude v kódu opraveno, udělá se retest. 
+- 15. [x] : Úprava výpisu výsledku - při záporném druhém čísle bude vypisováno v závorce

@@ -3,12 +3,12 @@
 
 |ID                        |Vstup       |Očekávaný výstup|Výsledek|Poznámky|Výstup Retestu|
 |:-------------------------|:----------:|:--------------:|:------:|:------:|:-------------:|
-|[TC01](test_cases_addition.md#id-případu-tc01)|`2 + 3`|Výsledek: 2 + 3 = 5|✅ Pass| - | - |
-|[TC02](test_cases_addition.md#id-případu-tc02)|`2 + -5`|Výsledek: 2 + -5 = -3|✅ Pass| - | - |
-|[TC03](test_cases_addition.md#id-případu-tc03)|`-2 + 5`|Výsledek: -2 + 5 = 3|✅ Pass| - | - | - 
-|[TC04](test_cases_addition.md#id-případu-tc04)|`-2 + -5`|Výsledek: -2.0 + -5.0 = -7.0|✅ Pass| - | - |
-|[TC05](test_cases_addition.md#id-případu-tc05)|`2.3 + 5.2`|Výsledek: 2.3 + 5.2 = 7.5|✅ Pass| - | - |
-|[TC06](test_cases_addition.md#id-případu-tc06)|`2.3 + -5.3`|Výsledek: 2.3 + -5.3 = -2.9|✅ Pass| - | Není známo na kolik destinných míst se má zobrazit výsledek |
+|[TC01](test_cases_addition.md#id-případu-tc01)|`2 + 3`|Výsledek: 2 + 3 = 5|✅ Pass| Test proběhl před úpravou funkce na zaokrouhlení na 4 desetinná místa - nutno udělat retest | - |
+|[TC02](test_cases_addition.md#id-případu-tc02)|`2 + -5`|Výsledek: 2 + -5 = -3|✅ Pass| Test proběhl před úpravou funkce na zaokrouhlení na 4 desetinná místa - nutno udělat retest | - |
+|[TC03](test_cases_addition.md#id-případu-tc03)|`-2 + 5`|Výsledek: -2 + 5 = 3|✅ Pass| Test proběhl před úpravou funkce na zaokrouhlení na 4 desetinná místa - nutno udělat retest | - | - |
+|[TC04](test_cases_addition.md#id-případu-tc04)|`-2 + -5`|Výsledek: -2.0 + -5.0 = -7.0|✅ Pass| Test proběhl před úpravou funkce na zaokrouhlení na 4 desetinná místa - nutno udělat retest| - |
+|[TC05](test_cases_addition.md#id-případu-tc05)|`2.3 + 5.2`|Výsledek: 2.3 + 5.2 = 7.5|✅ Pass| Test proběhl před úpravou funkce na zaokrouhlení na 4 desetinná místa - nutno udělat retest | - |
+|[TC06](test_cases_addition.md#id-případu-tc06)|`2.3 + -5.3`|Výsledek: 2.3 + -5.3 = -2.9|✅ Pass| Není známo na kolik destinných míst se má zobrazit výsledek  |- |
 |[TC07](test_cases_addition.md#id-případu-tc07)|`-2.3 + 5.3`|Výsledek: -2.3 + 5.3 = 2.9|Netestováno| - | - |
 |[TC08](test_cases_addition.md#id-případu-tc08)|`-2.3 + -5.2`|Výsledek: -2.3 + -5.2 = -7.5|Netestováno| - | - |
 |[TC09](test_cases_addition.md#id-případu-tc09)|` + 5`|Nelze spočítat nezadal si 1. číslo|Netestováno| - | - |
